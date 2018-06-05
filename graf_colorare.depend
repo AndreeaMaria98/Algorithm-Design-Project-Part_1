@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1527191722 source:f:\sda\backtraking\graf_colorare\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527888405 source:c:\users\stoia\desktop\graf_colorare\graf_colorare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1527970901 source:f:\sda\graf_colorare\graf_colorare\backtracking.c
+	<stdio.h>
+	"backtracking.h"
+	"make_graph.h"
+
+1527971240 f:\sda\graf_colorare\graf_colorare\backtracking.h
+
+1527971046 f:\sda\graf_colorare\graf_colorare\make_graph.h
+	"backtracking.h"
+
+1527970910 source:f:\sda\graf_colorare\graf_colorare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"make_graph.h"
+	"print_adj_matrix.h"
+	"backtracking.h"
+
+1527971072 f:\sda\graf_colorare\graf_colorare\print_adj_matrix.h
+	"backtracking.h"
+
+1527971088 source:f:\sda\graf_colorare\graf_colorare\make_graph.c
+	<stdio.h>
+	<assert.h>
+	"make_graph.h"
+
+1527971058 source:f:\sda\graf_colorare\graf_colorare\print_adj_matrix.c
+	<stdio.h>
+	"print_adj_matrix.h"
+	"make_graph.h"
+
+1527971256 source:c:\users\stoia\desktop\graf_colorare bun\graf_colorare\backtracking.c
+	<stdio.h>
+	"backtracking.h"
+	"make_graph.h"
+
+1527971240 c:\users\stoia\desktop\graf_colorare bun\graf_colorare\backtracking.h
+
+1527972134 c:\users\stoia\desktop\graf_colorare bun\graf_colorare\make_graph.h
+	"backtracking.h"
+
+1527971265 source:c:\users\stoia\desktop\graf_colorare bun\graf_colorare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"make_graph.h"
+	"print_adj_matrix.h"
+	"backtracking.h"
+
+1527972134 c:\users\stoia\desktop\graf_colorare bun\graf_colorare\print_adj_matrix.h
+	"backtracking.h"
+
+1527971088 source:c:\users\stoia\desktop\graf_colorare bun\graf_colorare\make_graph.c
+	<stdio.h>
+	<assert.h>
+	"make_graph.h"
+
+1527971058 source:c:\users\stoia\desktop\graf_colorare bun\graf_colorare\print_adj_matrix.c
+	<stdio.h>
+	"print_adj_matrix.h"
+	"make_graph.h"
+
+1528190712 source:c:\users\stoia\desktop\var1\graf_colorare\backtracking.c
+	<stdio.h>
+	"backtracking.h"
+	"make_graph.h"
+
+1528129310 c:\users\stoia\desktop\var1\graf_colorare\backtracking.h
+
+1528129309 c:\users\stoia\desktop\var1\graf_colorare\make_graph.h
+	"backtracking.h"
+
+1528207513 source:c:\users\stoia\desktop\var1\graf_colorare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"make_graph.h"
+	"print_adj_matrix.h"
+	"backtracking.h"
+
+1528129309 c:\users\stoia\desktop\var1\graf_colorare\print_adj_matrix.h
+	"backtracking.h"
+
+1528129301 source:c:\users\stoia\desktop\var1\graf_colorare\print_adj_matrix.c
+	<stdio.h>
+	"print_adj_matrix.h"
+	"make_graph.h"
+
+1528207267 source:c:\users\stoia\desktop\var1\graf_colorare\make_graph.c
+	<stdio.h>
+	<assert.h>
+	"make_graph.h"
+
+1528233244 source:c:\users\stoia\desktop\code\part_1\backtracking.c
+	<stdio.h>
+	"backtracking.h"
+	"make_graph.h"
+
+1528129310 c:\users\stoia\desktop\code\part_1\backtracking.h
+
+1528129309 c:\users\stoia\desktop\code\part_1\make_graph.h
+	"backtracking.h"
+
+1528207513 source:c:\users\stoia\desktop\code\part_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"make_graph.h"
+	"print_adj_matrix.h"
+	"backtracking.h"
+
+1528129309 c:\users\stoia\desktop\code\part_1\print_adj_matrix.h
+	"backtracking.h"
+
+1528223105 source:c:\users\stoia\desktop\code\part_1\make_graph.c
+	<stdio.h>
+	<assert.h>
+	"make_graph.h"
+
+1528129301 source:c:\users\stoia\desktop\code\part_1\print_adj_matrix.c
+	<stdio.h>
+	"print_adj_matrix.h"
+	"make_graph.h"
+
